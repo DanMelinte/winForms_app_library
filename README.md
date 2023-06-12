@@ -2,7 +2,7 @@
 
 Authentication takes place through the xml file:
 
-![image](https://github.com/DanMelinte/WinForms_App_library/assets/44269060/d090f040-6ff6-438b-9211-6298fdaf0905)
+    ![image](https://github.com/DanMelinte/WinForms_App_library/assets/44269060/d090f040-6ff6-438b-9211-6298fdaf0905)
 
 
 The overview of database(MySql) 
